@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OSM2MApInfo
+namespace OSM2MapInfo
 {
     class Program
     {
